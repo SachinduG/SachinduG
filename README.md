@@ -1,6 +1,6 @@
 <br />
 
-## Hello there, I'm Sachindu Gimhana | [ceylon-dev][website] 👋
+## Hello there, I'm Sachindu Gimhana | [sachindu_gimhana][website] 👋
 
 
 ### I'm an Undergraduate!!
