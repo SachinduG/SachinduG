@@ -42,6 +42,8 @@
 [<img align="left" alt="Sachindu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Sachindu | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Sachindu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Sachindu | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+
 
 <br  />
 <br  />
@@ -54,5 +56,6 @@
 [facebook]: https://www.facebook.com/sachindu.merlin
 [instagram]: https://www.instagram.com/_.sa_._chi._/
 [linkedin]: https://www.linkedin.com/in/sachindu-gimhana-222586195/
+[medium]: https://medium.com/@sachindugimhana
 
 
