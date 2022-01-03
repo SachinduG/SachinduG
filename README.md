@@ -77,6 +77,6 @@
 
 
 ## ❤ Views
-<a href="https://github.com/SachinduG/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=SachinduG & color = brightgreen"></a>
+<a href="https://github.com/SachinduG/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=SachinduG&style=plastic"></a>
 
 
