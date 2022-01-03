@@ -76,7 +76,7 @@
 [twitter]: https://twitter.com/Sachindu15
 
 
-## ❤ Views
+## ❤ Watched
 <a href="https://github.com/SachinduG/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=SachinduG&style=plastic&color=brightgreen"></a>
 
 
