@@ -1,6 +1,6 @@
 <br />
 
-## Hello there, I'm Sachindu Gimhana | [sachindu_gimhana][website] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">
+## Hello there, I'm Sachindu Gimhana | [sachindu_gimhana][website] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 
 
 ### I'm an Undergraduate!!
