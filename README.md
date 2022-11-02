@@ -31,6 +31,7 @@
 <img align="left" alt="MaterialUI" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/material-ui.svg" />
 <img align="left" alt="PHP" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 <img align="left" alt="C" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
+<img align="left" alt="C++" width="30px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Laravel" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
 <img align="left" alt="Angular" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
