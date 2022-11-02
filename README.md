@@ -76,7 +76,7 @@
 
 [website]: https://sachindug.github.io/sachindugimhana.github.io/
 [facebook]: https://www.facebook.com/sachindu.merlin
-[instagram]: https://www.instagram.com/_.sa_._chi._/
+[instagram]: https://www.instagram.com/g_.i._m/
 [linkedin]: https://www.linkedin.com/in/sachindu-gimhana-222586195/
 [medium]: https://medium.com/@sachindugimhana
 [twitter]: https://twitter.com/Sachindu15
