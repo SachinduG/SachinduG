@@ -32,7 +32,7 @@
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SachinduG&theme=gruvbox"/></p>
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SachinduG&theme=gruvbox"/></p>
 
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+<p align="center"><img src="https://corebitweb.com/wp-content/uploads/2021/09/blockchain-development.gif" alt="Synthwave" height="300" width="500"></p>
 
 
 ⭐️ From [@SachinduG](https://github.com/SachinduG)
