@@ -13,7 +13,7 @@
   </a>
 
   <a href="https://www.instagram.com/g_.i._m/">
-    <img src="https://www.vectorlogo.zone/logos/instagram/instagram.svg" alt="Instagram Profile" height="30" width="30">
+    <img src="[https://www.vectorlogo.zone/logos/instagram/instagram.svg](https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg)" alt="Instagram Profile" height="30" width="30">
   </a>
 
   <a href="https://www.facebook.com/sachindu.gimhana99/">
