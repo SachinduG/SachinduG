@@ -32,5 +32,3 @@
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SachinduG&theme=gruvbox"/></p>
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SachinduG&theme=gruvbox"/></p>
 
-
-⭐️ From [@SachinduG](https://github.com/SachinduG)
