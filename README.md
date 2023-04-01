@@ -3,7 +3,7 @@
 ## Hello there, I'm Sachindu Gimhana | [sachindu_gimhana][website] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 
 
-### I'm an Undergraduate!!
+### I'm a Software Engineering Graduate!!
 
 > *To work at a challenging, cutting edge technology position where I can enhance my skills and knowledge which focuses on the application in every angle of technology that goes beyond ordinary expectations.*
 
