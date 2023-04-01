@@ -9,7 +9,7 @@
   </a>
 
   <a href="https://twitter.com/Sachindu15">
-    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Twitter Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="Twitter Profile" height="30" width="30">
   </a>
 
   <a href="https://www.instagram.com/g_.i._m/">
