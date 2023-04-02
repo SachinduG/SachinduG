@@ -26,7 +26,7 @@
  
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachindug&label=Profile%20views&color=0e75b6&style=flat" alt="sachindu gimhana" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sachindug&label=Profile%20views&color=0e75b6&style=flat" alt="sachindu gimhana" /> </p>
 
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SachinduG&theme=gruvbox"/></p>
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SachinduG&theme=gruvbox"/></p>
