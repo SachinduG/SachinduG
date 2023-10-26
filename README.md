@@ -12,7 +12,7 @@
     <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="Twitter Profile" height="30" width="30">
   </a>
 
-  <a href="https://www.instagram.com/g_.i._m/">
+  <a href="https://www.instagram.com/sachindu.ig/">
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram Profile" height="30" width="30">
   </a>
 
