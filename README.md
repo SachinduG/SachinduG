@@ -4,7 +4,7 @@
 
 <p align="center">
   
-  <a href="https://www.linkedin.com/in/sachindugimhana/">
+  <a href="https://www.linkedin.com/in/sachindupathirawasam/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn Profile" height="30" width="30">
   </a>
 
