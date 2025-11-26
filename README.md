@@ -24,15 +24,14 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SachinduG&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&t=1" height="180" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinduG&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&t=1" height="180" alt="languages graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SachinduG&theme=tokyonight" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=SachinduG&theme=tokyonight&hide_border=true&background=0f172a&t=1" alt="streak stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SachinduG&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SachinduG&theme=tokyonight" />
 </div>
 
 <br/>
