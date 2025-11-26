@@ -38,6 +38,7 @@
 
 <h3 align="center">🛠  Tech Stack</h3>
 <p align="center">
+  <p align="center">
   <img src="https://img.shields.io/badge/UiPath-FA4616?style=flat&logo=uipath&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_Automate-0078D4?style=flat&logo=microsoft-power-automate&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -45,6 +46,10 @@
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" />
+</p>
 </p>
 
 <p align="center">
