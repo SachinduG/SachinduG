@@ -34,7 +34,6 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinduG&layout=donut&theme=tokyonight&hide_border=true&bg_color=0f172a" height="180" alt="languages graph" />
 </div>
-
 <br/>
 
 <h3 align="center">💻 Languages</h3>
